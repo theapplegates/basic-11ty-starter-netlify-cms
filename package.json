@@ -33,6 +33,7 @@
     "@11ty/eleventy-navigation": "^0.1.6",
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
+    "outdent": "^0.8.0",
     "uglify-js": "^3.14.2"
   }
 }
